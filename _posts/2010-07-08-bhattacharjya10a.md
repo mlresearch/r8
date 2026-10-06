@@ -1,11 +1,11 @@
 ---
 abstract: Performing sensitivity analysis for influence diagrams using the decision
-  circuit frame- work is particularly convenient, since the partial derivatives with
-  respect to every pa- rameter are readily available [Bhattacharjya and Shachter,
-  2007; 2008]. In this paper we present three non-linear sensitivity anal- ysis methods
-  that utilize this partial deriva- tive information and therefore do not require
+  circuit framework is particularly convenient, since the partial derivatives with
+  respect to every parameter are readily available [Bhattacharjya and Shachter,
+  2007; 2008]. In this paper we present three non-linear sensitivity analysis methods
+  that utilize this partial derivative information and therefore do not require
   re-evaluating the decision situation multiple times. Specifically, we show how to
-  efficiently compare strategies in decision situations, per- form sensitivity to
+  efficiently compare strategies in decision situations, per-form sensitivity to
   risk aversion and compute the value of perfect hedging [Seyller, 2008].
 title: Three new sensitivity analysis methods for influence diagrams
 year: '2010'
