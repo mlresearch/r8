@@ -1,9 +1,9 @@
 ---
-abstract: The standard coherence criterion for lower pre- visions is expressed using
-  an infinite number of linear constraints. For lower previsions that are es- sentially
+abstract: The standard coherence criterion for lower previsions is expressed using
+  an infinite number of linear constraints. For lower previsions that are essentially
   defined on some finite set of gambles on a finite possibility space, we present
-  a reformula- tion of this criterion that only uses a finite number of constraints.
-  Any such lower prevision is coher- ent if it lies within the convex polytope defined
+  a reformulation of this criterion that only uses a finite number of constraints.
+  Any such lower prevision is coherent if it lies within the convex polytope defined
   by these constraints. The vertices of this polytope are the extreme coherent lower
   previsions for the given set of gambles. Our reformulation makes it possible to
   compute them. We show how this is done and illustrate the procedure and its results.

@@ -1,13 +1,13 @@
 ---
 abstract: We introduce a new graphical model for tracking radio-tagged animals and
-  learning their movement patterns. The model pro- vides a principled way to combine
-  radio telemetry data with an arbitrary set of user- defined, spatial features. We
-  describe an ef- ficient stochastic gradient algorithm for fit- ting model parameters
-  to data and demon- strate its effectiveness via asymptotic analy- sis and synthetic
-  experiments. We also ap- ply our model to real datasets, and show that it outperforms
-  the most popular ra- dio telemetry software package used in ecol- ogy. We conclude
-  that integration of dif- ferent data sources under a single statistical framework,
-  coupled with appropriate param- eter and state estimation procedures, pro- duces
+  learning their movement patterns. The model provides a principled way to combine
+  radio telemetry data with an arbitrary set of userdefined, spatial features. We
+  describe an efficient stochastic gradient algorithm for fitting model parameters
+  to data and demonstrate its effectiveness via asymptotic analysis and synthetic
+  experiments. We also apply our model to real datasets, and show that it outperforms
+  the most popular radio telemetry software package used in ecology. We conclude
+  that integration of different data sources under a single statistical framework,
+  coupled with appropriate parameter and state estimation procedures, produces
   both accurate location estimates and an interpretable statistical model of animal
   movement.
 title: Combining Spatial and Telemetric Features for Learning Animal Movement Models
