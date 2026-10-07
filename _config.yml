@@ -2,7 +2,7 @@
 booktitle: Proceedings of the 26th Conference on Uncertainty in Artificial Intelligence
 shortname: UAI
 year: '2010'
-start: &1 2010-07-08
+start: 2010-07-08
 end: 2010-07-11
 conference_number: '26'
 published: 2026-10-04
@@ -72,7 +72,7 @@ conference:
   url: https://event.cwi.nl/uai2010/
   location: Catalina Island, CA, USA
   dates:
-  - *1
+  - 2010-07-08
   - 2010-07-09
   - 2010-07-10
   - 2010-07-11
